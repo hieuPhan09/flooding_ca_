@@ -1,0 +1,229 @@
+﻿X,Y,OBJECTID,Reclamation_District,Break_Type,Year,Repair_Status,Source,Note
+-13495048.2636,4530100.375,1,2101,natural,1997,RD2101 - W,OES, 
+-13494433.7902,4529109.2495,2,2031,natural,1997,RD2031 - O,OES, 
+-13493859.3327,4526934.4806,3,2099,natural,1997,RD2099 - S,OES, 
+-13490908.1935,4527937.3968,4,2031,natural,1997,RD2031 - P,OES, 
+-13490899.5384,4527862.4826,5,2031,natural,1997,RD2031 - V,OES, 
+-13490884.4441,4527663.2953,6,2031,natural,1997,RD2031 - Q,OES, 
+-13491411.6739,4524130.7797,7,2100,natural,1997,RD2100 - T,OES, 
+-13491210.2621,4523927.1143,8,2100,natural,1997,RD2100 - U,OES, 
+-13500682.4475,4540715.7122,9,2075,natural,1997,RD2075 - F,OES, 
+-13536685.4101,4727556.8269,10,, ,1997, ,OES, 
+-13530663.0272,4717288.5875,11,, ,1997, ,OES, 
+-13530965.9344,4716336.8329,12,, ,1997, ,OES, 
+-13556263.493,4736787.8813,13,, ,1997, ,OES, 
+-13503215.7738,4545578.8619,14,, ,1997, ,Mont.Wat., 
+-13502837.4651,4547435.9408,15,, ,1997, ,Mont.Wat., 
+-13483844.5422,4521914.0797,16,, ,1997, ,Mont.Wat., 
+-13479102.3799,4522041.4552,17,, ,1997, ,Mont.Wat., 
+-13386338.2964,4407861.2357,18,, ,1997, ,Mont.Wat., 
+-13386921.9828,4407307.597,19,, ,1997, ,Mont.Wat., 
+-13388399.1718,4407635.3164,20,, ,1997, ,Mont.Wat., 
+-13388476.3893,4407268.3812,21,, ,1997, ,Mont.Wat., 
+-13382970.7422,4409373.8349,22,, ,1997, ,Mont.Wat., 
+-13380748.4117,4409392.5911,23,, ,1997, ,Mont.Wat., 
+-13380759.1575,4409023.7016,24,, ,1997, ,Mont.Wat., 
+-13380023.8017,4408465.3205,25,, ,1997, ,Mont.Wat., 
+-13474628.9206,4506112.813,26,, ,1997, ,Mont.Wat., 
+-13480521.5901,4648376.8846,27,, ,1997, ,Mont.Wat., 
+-13485911.4058,4647290.526,28,, ,1997, ,Mont.Wat., 
+-13486228.4577,4648348.3477,29,, ,1997, ,Mont.Wat., 
+-13489586.9256,4648787.3021,30,, ,1997, ,Mont.Wat., 
+-13490806.5143,4648213.0044,31,, ,1997, ,Mont.Wat., 
+-13491696.9032,4647163.1329,32,, ,1997, ,Mont.Wat., 
+-13492081.0042,4646659.4306,33,, ,1997, ,Mont.Wat., 
+-13492447.207,4645026.682,34,, ,1997, ,Mont.Wat., 
+-13493043.5419,4643340.3868,35,, ,1997, ,Mont.Wat., 
+-13493346.4388,4642667.4494,36,, ,1997, ,Mont.Wat., 
+-13495510.7265,4641682.8818,37,, ,1997, ,Mont.Wat., 
+-13496454.3679,4639898.6133,38,, ,1997, ,Mont.Wat., 
+-13498558.6509,4639015.5643,39,, ,1997, ,Mont.Wat., 
+-13499945.838,4638360.6477,40,, ,1997, ,Mont.Wat., 
+-13502724.3553,4635749.2825,41,, ,1997, ,Mont.Wat., 
+-13506133.9113,4630273.0576,42,, ,1997, ,Mont.Wat., 
+-13506636.1258,4630321.2058,43,, ,1997, ,Mont.Wat., 
+-13508152.527,4629920.6992,44,, ,1997, ,Mont.Wat., 
+-13508923.8772,4628982.8335,45,, ,1997, ,Mont.Wat., 
+-13510796.3511,4626378.3207,46,, ,1997, ,Mont.Wat., 
+-13501398.2322,4544094.5461,47,2075,breach,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13501666.6027,4544101.075,48,2075,breach,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13501097.52,4544094.7133,49,2075,breach,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13499718.2469,4543662.8455,50,2075,breach,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13498468.9533,4543663.0259,51,2075,breach,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13546940.202,4625277.6957,52,2098,water side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13546864.6678,4621321.6155,53,2098,water side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13548445.2272,4618794.1362,54,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13548842.6971,4619516.016,55,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13549814.273,4620918.25,56,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13550432.5311,4621212.5136,57,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13550669.5096,4622404.6223,58,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13550829.1766,4622674.0143,59,2098,land side slip,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571627.732,4598427.6945,60,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571590.353,4598487.8433,61,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13570973.7717,4599178.2839,62,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13570925.3268,4599396.4736,63,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13570949.104,4599705.4501,64,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571732.1707,4600547.0413,65,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571682.884,4600504.3669,66,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571634.4739,4600468.0759,67,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571575.9234,4600422.7389,68,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571511.3198,4600386.2624,69,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571450.1741,4600359.3895,70,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571377.1728,4600334.9318,71,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571310.0715,4600301.6096,72,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571173.312,4600195.3931,73,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13571044.2231,4600044.6165,74,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13570983.1087,4599859.5614,75,2112,erosion,1998, ,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514353.4123,4620037.0819,76,2124,erosion,1998,1,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514353.4018,4619797.4524,77,2124,erosion,1998,2,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514345.7486,4619558.3293,78,2124,erosion,1998,3,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514108.8537,4619485.201,79,2124,erosion,1998,4,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513876.1125,4619484.9838,80,2124,erosion,1998,5,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513651.0731,4619485.5378,81,2124,erosion,1998,6,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513471.8696,4619484.9661,82,2124,erosion,1998,7,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513672.2517,4619493.5726,83,2124,erosion,1998,6a,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13512994.5176,4619485.5689,84,2124,erosion,1998,8,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513352.9733,4618036.9588,85,2124,erosion,1998,9-15,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13513504.0929,4617558.5162,86,2124,erosion,1998,16,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514023.0471,4617570.7499,87,2124,erosion,1998,17,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13514941.9757,4617591.1675,88,2124,erosion,1998,18,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13516330.5996,4617574.8571,89,2124,erosion,1998,19,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13534114.9422,4623943.1689,90,349,erosion,1998,2,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13534669.5391,4620631.8502,91,349,erosion,1998,3,DWR/Central District/Landingham,year is uncertain...it is *probably* 1998
+-13503139.4088,4547067.3635,92,2096,natural,1997,RD2096 - H,OES, 
+-13502328.1469,4546403.9925,93,2094,natural,1997,RD2094 - 583,OES, 
+-13502469.6479,4545879.6123,94,2094,natural,1997,RD2094 - G,OES, 
+-13504826.9011,4546171.9046,95,2107,natural,1997,RD2107 - J,OES, 
+-13504909.8028,4545622.6484,96,2095,natural,1997,RD2095 - K,OES, 
+-13499431.1639,4538786.5881,97,2075,natural,1997,RD2075 - D,OES, 
+-13498761.831,4539078.4839,98,2075,natural,1997,RD2075 - E,OES, 
+-13497424.7927,4532753.943,99,2064,natural,1997,RD2064 - A,OES, 
+-13496380.9496,4532479.8645,100,2064,natural,1997,RD2064 - B,OES, 
+-13496749.5876,4531459.3087,101,2101,natural,1997,RD2101 - R,OES, 
+-13496647.5458,4531348.3981,102,2101,natural,1997,RD2101 - M,OES, 
+-13495717.5757,4531424.3042,103,2031,natural,1997,RD2031 - N,OES, 
+-13510814.3813,4625353.0769,104,, ,1997, ,Mont.Wat., 
+-13511797.7638,4624648.6651,105,, ,1997, ,Mont.Wat., 
+-13512465.6669,4624043.5095,106,, ,1997, ,Mont.Wat., 
+-13512670.8809,4623216.7334,107,, ,1997, ,Mont.Wat., 
+-13512745.1761,4622600.5705,108,, ,1997, ,Mont.Wat., 
+-13512412.7237,4620998.1869,109,, ,1997, ,Mont.Wat., 
+-13518672.5257,4619339.2734,110,, ,1997, ,Mont.Wat., 
+-13518794.0311,4620937.6357,111,, ,1997, ,Mont.Wat., 
+-13518879.6776,4622152.7724,112,, ,1997, ,Mont.Wat., 
+-13518993.2201,4622963.2596,113,, ,1997, ,Mont.Wat., 
+-13519131.0408,4624861.0089,114,, ,1997, ,Mont.Wat., 
+-13566376.4867,4796264.4992,115,, ,1997, ,Mont.Wat., 
+-13600830.3346,4873294.3006,116,, ,1997, ,Mont.Wat., 
+-13583253.7866,4861151.63,117,, ,1997, ,Mont.Wat., 
+-13583724.856,4861275.8988,118,, ,1997, ,Mont.Wat., 
+-13409989.1632,4413656.3621,119,, ,1983, ,Mont.Wat.,"also broke in 1986, 1995, 1997"
+-13408974.9205,4411518.1731,120,, ,1983, ,Mont.Wat.,"also broke in 1986, 1995, 1997"
+-13549569.9569,4682227.0896,121,, ,1983, ,Mont.Wat., 
+-13498570.18,4533354.304,122,2064, ,1983, ,Mont.Wat., 
+-13491288.3562,4523993.5255,123,, ,1983, ,Mont.Wat., 
+-13386427.9851,4407837.5226,124,, ,1983, ,Mont.Wat., 
+-13533724.2499,4740254.9497,125,, ,1986, ,Mont.Wat., 
+-13526255.627,4717466.0248,126,, ,1986, ,Mont.Wat., 
+-13524827.4223,4611648.966,127,, ,1986, ,Mont.Wat., 
+-13522662.2165,4615907.9093,128,, ,1986, ,Mont.Wat., 
+-13521267.3762,4616736.8191,129,, ,1986, ,Mont.Wat., 
+-13528286.0771,4606000.6945,130,, ,1986, ,Mont.Wat., 
+-13528160.9505,4605691.1268,131,, ,1986, ,Mont.Wat., 
+-13349576.3775,4355240.2384,132,, ,1995, ,Mont.Wat., 
+-13525561.6829,4690598.8002,133,, ,1986, ,OES, 
+-13383966.996,4407626.5049,134,, ,1997, ,Mont.Wat., 
+-13384136.1774,4408625.585,135,, ,1997, ,Mont.Wat., 
+-13383205.3933,4408863.6782,136,, ,1997, ,Mont.Wat., 
+-13489907.8481,4523400.0646,137,, ,1995, ,Mont.Wat., 
+-13516611.1765,4613184.2224,138,348,land side slip,1986, ,DWR Delta Levees Office, 
+-13570565.1239,4590185.3782,139,, ,1983, ,DWR Central District, 
+-13567913.041,4590073.742,140,, ,1983, ,DWR Central District, 
+-13567099.5388,4589565.4187,141,, ,1986, ,DWR Central District, 
+-13567509.3162,4587601.3936,142,, ,1986, ,DWR Central District, 
+-13556816.5971,4584090.3136,143,, ,1937, ,DWR Central District, 
+-13554420.062,4583720.5434,144,, ,1969, ,DWR Central District, 
+-13549641.5058,4590927.1376,145,, ,1906, ,DWR Central District,may have been the 1904 break
+-13548687.6578,4592712.5784,146,, ,1986, ,DWR Central District,"overtopping, no failure"
+-13550805.9627,4582617.4279,147,, ,1927, ,DWR Central District, 
+-13546735.1721,4585683.5986,148,, ,1907, ,DWR Central District, 
+-13544868.4556,4589892.5308,149,, ,1983, ,DWR Central District, 
+-13537948.7832,4593497.0442,150,, ,1950, ,DWR Central District, 
+-13534075.9147,4591183.8746,151,, ,1980, ,DWR Central District, 
+-13532949.5317,4590914.2255,152,, ,1938, ,DWR Central District, 
+-13532924.182,4589235.5029,153,, ,1938, ,DWR Central District, 
+-13535653.611,4588307.2242,154,, ,1938, ,DWR Central District, 
+-13541972.7705,4586149.788,155,, ,1981, ,DWR Central District, 
+-13537759.2815,4581684.0965,156,, ,1907, ,DWR Central District, 
+-13535053.8976,4583452.8835,157,, ,1980, ,DWR Central District, 
+-13534277.2769,4582595.915,158,, ,1955, ,DWR Central District, 
+-13533943.736,4584030.6128,159,, ,1938, ,DWR Central District, 
+-13533110.7422,4580074.3956,160,, ,1994, ,DWR Central District,dry season
+-13531998.2013,4581496.6281,161,, ,1982, ,DWR Central District,"overtopping, no failure"
+-13532732.8856,4581007.3184,162,, ,1986, ,DWR Central District,"overtopping, no failure"
+-13532045.9391,4572282.6366,163,, ,1983, ,DWR Central District, 
+-13530242.0129,4567318.2923,164,, ,1907, ,DWR Central District, 
+-13527368.5713,4568392.0565,165,, ,2004, ,DWR Delta Levees Office,dry season
+-13505014.5587,4553901.2935,166,, ,1950, ,DWR Central District, 
+-13503552.6998,4547195.2924,167,, ,1938, ,DWR Central District,also failed in 1950
+-13520581.0593,4570390.3716,168,, ,1980, ,DWR Central District,failed railroad embankment separating Jones's
+-13528582.0762,4574438.1522,169,, ,1980, ,DWR Central District, 
+-13526692.0036,4578807.6712,170,, ,1983, ,DWR Central District, 
+-13525976.3166,4579156.9906,171,, ,1982, ,DWR Central District, 
+-13527948.21,4585199.3887,172,, ,1936, ,DWR Central District, 
+-13528128.2479,4579066.278,173,, ,1969, ,DWR Central District, 
+-13525991.0463,4587005.2984,174,, ,1950, ,DWR Central District, 
+-13525948.6686,4589651.5341,175,, ,1982, ,DWR Central District, 
+-13525275.7179,4590434.326,176,, ,1955, ,DWR Central District, 
+-13536616.299,4594759.6698,177,, ,1972, ,DWR Central District, 
+-13544887.6561,4603823.1346,178,, ,1986, ,DWR Central District, 
+-13543014.3265,4607718.1937,179,, ,1986, ,DWR Central District, 
+-13542591.0097,4607094.8524,180,, ,1904, ,DWR Central District, 
+-13545499.5002,4612452.0792,181,, ,1986, ,DWR Central District, 
+-13547167.9189,4613878.3242,182,, ,1986, ,DWR Central District, 
+-13546951.4478,4615188.9689,183,, ,1986, ,DWR Central District, 
+-13545277.6719,4614035.2299,184,, ,1986, ,DWR Central District, 
+-13545833.3696,4625858.3613,185,, ,1986, ,DWR Central District, 
+-13541573.3489,4620468.4789,186,, ,1983, ,DWR Central District, 
+-13541238.5693,4619160.6188,187,, ,1982, ,DWR Central District, 
+-13541506.376,4616973.6462,188,, ,1986, ,DWR Central District, 
+-13542249.0545,4616584.899,189,, ,1983, ,DWR Central District, 
+-13542311.6508,4616334.1941,190,, ,1980, ,DWR Central District, 
+-13543737.5073,4613528.3298,191,, ,1986, ,DWR Central District, 
+-13526041.3476,4612132.2313,192,, ,1980, ,DWR Central District, 
+-13526194.2136,4611442.4777,193,, ,1986, ,DWR Central District, 
+-13525120.9131,4615604.5647,194,, ,1986, ,DWR Central District, 
+-13521219.0983,4616610.4428,195,, ,1997, ,DWR Delta Levees Office, 
+-13512703.4067,4582512.3724,196,,,1983,,DWR Central District,broke twice in 1983
+-13575125.4632,4590646.8199,197,2130,overtopping,2008,,Wood Rodgers,120 feet wide breach and 400' remainder is weak
+-13542486.8886,4616092.9583,198,1667,,2006,,DWR Delta Levees Office,
+-13543562.5584,4615227.4207,199,1667,,2006,,DWR Delta Levees Office,
+-13541797.3936,4585895.7483,200,,,1983,,DWR Delta Levees Office,
+-13532031.3979,4572056.839,201,,,2005,74+00,DWR Delta Levees Office,"94 feet wide, 14 feet deep, failed evening of 12/30/2005, by clubhouse"
+-13514246.6751,4591822.4968,202,,,2017,,DWR Geodetic GDSS,January 2017 failure
+-13515253.1933,4613085.6905,203,,overtopping,2017,,DWR Delta Levees Office,January 2017 failure
+-13522129.1839,4616212.7069,204,2110,Levee break,2017,,DWR Geodetic GDSS,2017.02.11
+-13502368.799,4541388.0193,205,2075,,2017,,DWR Geodetic GDSS,"2017.02.20, 5-10' wide, fill with compacted material"
+-13515637.4683,4613340.6834,206,,Levee break,2017,,FEMS incidents dataset,"Breach location is on the east bank levee of Grizzly Slough, just south of New Hope Road."
+-13516526.6885,4613217.8034,207,,Levee break,2017,,FEMS incidents dataset,Mokelumne River north (and west) of New Hope Road. These are approximate Lat/Long.
+-13517610.813,4433613.0061,208,,Levee break,2017,,FEMS incidents dataset,
+-13517166.2029,4433706.4868,209,,Levee break,2017,,FEMS incidents dataset,
+-13642576.1124,4691357.5835,210,,Levee break,2017,,FEMS incidents dataset,Horseshoe Drive @ Putah Creek
+-13502276.449,4541326.3269,211,2075,Levee break,2017,,FEMS incidents dataset,
+-13566721.6403,4588129.304,212,1607,breach,2017,,DWR Delta Levees Office,85+00-88+00
+-13524641.1883,4611945.5733,213,2110,breach,2017,,DWR Delta Levees Office,caused by overtopping
+-13524830.936,4613714.828,214,2110,breach,2017,,DWR Delta Levees Office,intentional breach
+-13544915.7851,4612696.8874,215,,breach,1965,,DFM,Five breaks were observed in the west levee of Sacramento ship channel at lower end of Prospect Isl
+-13499645.083,4538323.7142,216,2064,breach,1934,,DFM,Breach in San Joaquin River Levee is depicted here. Levee alignment has since changed.
+-13542599.1459,4607787.581,217,501,breach,1907,,DFM,
+-13501890.0844,4543810.1261,218,,breach,1950,,DFM,
+-13492698.251,4535985.7165,219,2064,breach,1955,,DFM,300 feet wide
+-13505197.7725,4546393.4025,220,2107,breach,1938,,DFM,"Breach site located along Paradise Cut east levee, about 600 feet below the Western Pacific Raillroa"
+-13504401.2605,4545496.3597,221,2096,breach,1938,,DFM,
+-13504652.9134,4545564.0856,222,2095,breach,1997,,DFM,repaired by USACE
+-13502070.5451,4539369.9522,223,2085,breach,1955,,DFM,may have also breached in 1960
+-13500387.4861,4537219.2278,224,2085,breach,1938,,DFM,may have also breached in 1950
+-13499066.684,4533743.6894,225,2064,breach,1934,,DFM,
+-13522156.7692,4616218.0861,226,2110,breach,2023,,MBK,
+-13524831.1004,4613720.65,227,2110,overtopping from inside flooded island,2023,,MBK,
+-13524592.4125,4611799.6538,228,2110,overtopping from inside flooded island,2023,,MBK,
